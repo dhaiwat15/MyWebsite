@@ -354,11 +354,15 @@ const Featured = () => {
       <ul class="skills-list">
         <li>Course Marshal</li>
        <p>TCS Toronto - Oct 2023 - Oct 2023</p>
+       <p>As a Course Marshal my role was to ensure participant safety, provide clear directions on the course, and assist in emergencies if needed. </p>
       </ul>
 
       <ul class="skills-list">
         <li>Traffic Control </li>
         <p>RBC - Oct 2023 - Oct 2023</p>
+        <p>
+       As a Traffic Control my role was to ensure participants and spectators moved safely and efficiently through designated areas.
+        </p>
       </ul>
 
       {/* <StyledProjectsGrid>
